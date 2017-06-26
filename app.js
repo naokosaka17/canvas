@@ -4,7 +4,7 @@ const ctx = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 // color
-ctx.strokeStyle = '#BADASS';
+ctx.strokeStyle = '#BADA55';
 // end of the line shape
 ctx.lineJoin = 'round';
 // shows line smooth
